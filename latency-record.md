@@ -4,6 +4,8 @@
 
 ![flow](flow.png)
 
+Note: RSSHub seems blocked on AliyunLightServer.
+
 ## Calculated Data
 
 | Date | Processed Requests | Average Latency |
@@ -11,9 +13,6 @@
 | 2020-08-18 | 15 | 41.23s |
 
 ## Raw Data
-
-<details><summary>Click to load sheets.</summary>
-<p>
 
 ### 2020
 
@@ -41,6 +40,3 @@
 | :----: | :----: | :----: |
 | F1 | 16:02:16 | 21:23:09 |
 | F2 | 23:16:46 | 23:27:41 |
-
-</p>
-</details>
