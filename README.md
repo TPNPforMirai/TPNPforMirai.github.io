@@ -4,7 +4,7 @@
 
 TL;DR: VERY FAST
 
-Detailed test data [here](https://tpnp.01160113.xyz/latency-test)
+Detailed test data [here](https://tpnp.01160113.xyz/latency-record)
 
 ## Welcome to TPNPforMirai Site
 
