@@ -1,5 +1,11 @@
 # TPNP for Mirai
 
+## Latency Test
+
+TL;DR: VERY FAST
+
+Detailed test data [here](https://tpnp.01160113.xyz/latency-test)
+
 ## Welcome to TPNPforMirai Site
 
 TPNP -- Tamaki Polka Notification Pusher
