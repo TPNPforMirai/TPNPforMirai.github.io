@@ -1,16 +1,23 @@
 # TPNP for Mirai
 
-## Latency Test
-
-TL;DR: VERY FAST
-
-Detailed test data [here](https://tpnp.01160113.xyz/latency-record)
-
 ## Welcome to TPNPforMirai Site
 
 TPNP -- Tamaki Polka Notification Pusher
 
 Please, check out repository's specific `README.md` before opening an issue, thanks!
+
+## Latency Test
+
+TL;DR: VERY FAST
+
+Usually process data within 120s, with drop rate of 5% - 10%.
+
+Here's the structure:
+![Structure](flow.png)
+
+## Todo List
+
+Not yet available.
 
 ## Original Repositories
 
