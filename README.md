@@ -1,5 +1,9 @@
 # TPNP for Mirai
 
+## IMPORTANT: GDPR
+
+[Click Here.](GDPR)
+
 ## Welcome to TPNPforMirai Site
 
 TPNP -- Tamaki Polka Notification Pusher
