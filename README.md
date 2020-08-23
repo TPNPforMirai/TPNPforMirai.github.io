@@ -22,7 +22,11 @@ Here's the structure:
 
 ## Todo List
 
-You ask, and I'll make my best to do it!
+```
+Logger Database
+Network Error Workaround
+Autorestart on Exception
+```
 
 ## Original Repositories
 
