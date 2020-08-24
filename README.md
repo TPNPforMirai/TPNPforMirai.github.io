@@ -22,8 +22,8 @@ Here's the structure:
 
 ## Todo List
 
-```
-Logger Database
+```Markdown
+~~Logger Database~~
 Network Error Workaround
 Autorestart on Exception
 ```
