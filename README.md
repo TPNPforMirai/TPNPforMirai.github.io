@@ -23,7 +23,6 @@ Here's the structure:
 ## Todo List
 
 ```Markdown
-~~Logger Database~~
 Network Error Workaround
 Autorestart on Exception
 ```
